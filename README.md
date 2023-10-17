@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Personal Diary app where you can create , delete your notes and you can store the notes in local file system.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
