@@ -1,0 +1,55 @@
+.note-container {
+    background-color: #2A9D;
+    border: 3px solid #264653;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 25px;
+    display: inline-block;
+    width: 250px; /* Adjust the width as needed */
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .note-content {
+    text-align: left;
+  }
+  
+  .note-content h3 {
+    margin: 0;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+  
+  }
+  
+  .note-content p {
+    margin: 5px 0;
+    font-size: 15px;
+    color: #000;
+    text-align: center;
+  }
+  .note-content #para{
+    margin: 5px 0;
+    font-size: 20px;
+    color: #000;
+  }
+  
+  button {
+    background-color: #264653;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    padding: 5px 10px;
+    font-size: 18px;
+    border-radius: 3px;
+  }
+.button-delete{
+    margin-top: 15px;
+    background-color: #264653;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    padding: 5px 10px;
+    font-size: 18px;
+    border-radius: 3px; 
+}
